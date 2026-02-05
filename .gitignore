@@ -1,0 +1,42 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+__pycache__/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (if large)
+*.csv
+*.zip
+*.tar.gz
+
+# Output files
+*.png
+*.jpg
+*.jpeg
+*.pdf
